@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+:root {
+    --cordevaca: #FFFFFF;
+    --roxobrincodevaca: #872e9f;
+    --brancoleitedevaca: #fff;
+    --pretoboi: #000000;
+}
+
+body{ 
+
+  border: #872e9f;
+    background-color: #872e9f; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    font-size: 1.5em; /* Tamanho da fonte */
+ 
+}
+#imagem{
+    border: #872e9f;
+    background-color: #872e9f; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    font-size: 1.5em; /* Tamanho da fonte */
+}
+
+style{
+background-color: #872e9f;
+
+}
+
+.borda {
+width: 420px;
+background-color: #872e9f;
+color:#fff;
+}
+
+form{
+    background-color: #872e9f;
+}

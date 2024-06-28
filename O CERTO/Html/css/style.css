@@ -1,0 +1,7 @@
+root {
+    --rosababy: #ffc0cb;
+}
+
+body {
+    background-color: var (rosababy);
+}

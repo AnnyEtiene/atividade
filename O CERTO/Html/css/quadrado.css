@@ -1,0 +1,49 @@
+html{
+margin:0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.mae{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+divt{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    color: white;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+}
+.vermelho{
+   background-color: red;
+}
+.azul{
+    background-color: blue;
+ }
+ .amarelo{
+    background-color: yellow;
+ }
+ .preto{
+    background-color: black;
+ }
+
+
+
+    
+
+ 
+
